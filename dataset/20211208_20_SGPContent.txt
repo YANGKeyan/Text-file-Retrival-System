@@ -1,0 +1,55 @@
+SINGAPORE: A man who was fired from his job with one day's notice after he had already resigned deleted 20 files from the company's Google Drive account.
+
+Tan Wei Chiang, 30, was fined S$5,000 on Tuesday (Dec 7) for his crime. He pleaded guilty to one charge under the Computer Misuse Act of unauthorised modification of computer contents.
+
+The court heard that Tan worked as a production manager at meat production firm 786 SG in the company's office at Aljunied Industrial Estate.
+
+His job scope included planning the production schedule and checking on the quality of goods.
+
+On Jan 4 this year, he tendered a resignation letter and began serving a 30-day notice period, as required under his employment agreement.
+
+On Jan 12, his direct supervisor handed a letter of termination to Tan, informing him that his employment was terminated with one day's notice on account of his overall performance and work not meeting the company's expectations.
+
+According to the letter, Tan was to receive his final pro-rated salary at the end of January 2021. He signed and accepted the letter, and his supervisor instructed him to hand over all the projects he had on hand, company login details and all related documents and information.
+
+Later that day, while still in the office, Tan used his company account to access the firm's Google Drive, a cloud-based data storage facility.
+
+He deleted in a few batches 20 documents belonging to the company by moving them to the bin. He then deleted 16 of these documents from the bin.
+
+Tan's supervisor later accessed the company's Google Drive and realised that several files were no longer there. She sent Tan a message asking if the file containing the company's production records was still there, as she could not find them.
+
+She asked if Tan had deleted the file, but Tan said it was still there and told her where to search. His supervisor then asked if he had deleted them by accident, and he did not reply.
+
+She then asked an IT employee to check on Tan's user logs connected to his company account, and was told that Tan had deleted the company's documents from Google Drive.
+
+The company later managed to recover 16 of the 20 deleted files, but were unable to retrieve the remaining four.
+
+These files contained three production workers' overtime records, which the firm relied on to pay overtime salaries; a consolidated record of the company's compliance with Singapore Food Agency requirements, which is needed for audits; a list of products and guidelines for factory workers to refer to; and an acknowledgement form for customers upon receipt of goods.
+
+The company had to expend time and effort for its employees to recover the documents, and had to contact the SFA to retrieve some records from them and recreate some documents from scratch.
+
+The firm deducted S$1,500 from Tan's outstanding salary as compensation.
+
+In investigations, Tan initially told the police that the documents he deleted belonged to him.
+
+On Tuesday, the prosecutor asked for a S$5,000 fine, saying that Tan had offended in a deliberate manner, deleting documents in batches and going further to delete them permanently from the bin. 
+
+The statement of facts also reflects his lack of remorse, as he continued to deny his acts when confronted, said the prosecutor. She asked for "a higher fine" as four of the files were not recovered.
+
+DELETED DOCUMENTS WERE COLLATED FROM AVAILABLE INFO: DEFENCE
+
+Defence lawyer Kalidass Murugaiyan asked for a fine of S$2,500 instead. He said the deleted documents had been prepared from available information, so "it's not as if the information is invariably lost".
+
+"It's collated information, the work was done by the accused person. He's of course wrong to have deleted those items," said the lawyer.
+
+"The loss of these documents, is not, as if - say, the loss of a precious ring. So all that needs to be done - not to make light of it - is manpower required to reorganise the documents."
+
+He said Tan has since left his job. The defence lawyer said his client told him that "it would not have been difficult" to put the files together again.
+
+The lawyer added that S$1,500 was deducted from Tan, which would be "more than sufficient" for the company to get the files collated or to pay someone to do it.
+
+"Suffice to say, he was treated very roughly by the employer," said the defence lawyer.
+
+The judge noted that Tan's act was motivated by feelings of anger and is not to be tolerated. However, she took into account that he pleaded guilty at the earliest opportunity.
+
+For unauthorised modification of computer contents, he could have been jailed up to three years, fined up to S$10,000, or both.

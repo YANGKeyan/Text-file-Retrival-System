@@ -1,0 +1,122 @@
+SINGAPORE: Singapore authorities are checking and patching government systems "thoroughly" to guard against a critical vulnerability in a widely used software known as Log4j, said Minister for Communications and Information Josephine Teo on Friday (Dec 17).
+
+This comes after the US cybersecurity agency warned that "a growing set" of hackers are actively attempting to exploit the flaw.
+
+Log4j is an open-source software used to support activity-logging in many Java-based applications. Logging software tracks activity such as site visits, clicks and chats.
+
+In a media release on Friday, the Cyber Security Agency of Singapore (CSA) said it has raised the alert on the Log4j vulnerability, urging businesses to implement mitigation measures.
+
+"As it is widely used by developers, this vulnerability can have very serious consequences. Successful exploitation of this vulnerability will allow an attacker to gain full control of the affected servers," said CSA.
+
+"The situation is evolving rapidly and there have already been numerous observations of ongoing attempts by threat actors to scan for and attack vulnerable systems."
+
+In a Facebook post, Mrs Teo noted that security researchers have flagged it as one of the most serious cyber vulnerabilities.
+
+"We are taking this seriously. Our teams at CSA and GovTech (Government Technology Agency of Singapore) are checking and patching our government systems thoroughly as we speak. But it will not be enough and we need to keep vigilant," she wrote.
+
+Mrs Teo added that CSA briefed trade associations and chambers on Friday morning.
+
+"While the situation is serious, there are always proactive steps we can take. I urge CII (critical information infrastructure) owners, business leaders or developers to identify the potential risks in your systems and close these gaps quickly."
+WHAT SHOULD USERS DO?
+
+CSA urged users and product developers to immediately implement the following mitigation measures: 
+
+Users of products with Log4j should:
+
+Patch to the latest updates immediately, especially for users of Apache Log4j with affected versions between 2.0 and 2.14.1. They are advised to upgrade to the latest version 2.16.0 immediately.
+	Determine if Log4j is used in other instances within their system
+	Heighten monitoring for anomalous activity; deploy Protective Network Monitoring and Review System Logs
+Product developers that use Log4j in their products should:
+
+Identify, mitigate and develop patches for affected products that utilise Log4j
+	Inform end-users of your products that contain this vulnerability and strongly urge them to prioritise software updates
+Organisations can refer to SingCERT’s advisory for more information.
+Related:
+      
+  
+    
+  
+      
+                
+
+
+
+
+        
+        
+        
+
+
+
+        
+    
+      
+    
+      
+  
+
+
+
+
+
+
+
+
+            
+
+  
+        
+
+      
+
+      US cybersecurity officials see mainly low-impact attacks from logging flaw, so far
+
+  
+  
+  
+     
+    
+    
+  
+
+
+                
+
+
+
+
+        
+        
+        
+
+
+
+        
+    
+      
+    
+      
+  
+
+
+
+
+
+
+
+
+            
+
+  
+        
+
+      
+
+      Major tech companies struggle to plug holes in logging software
+While a security fix has been released by Apache Software Foundation, the non-profit organisation that developed Log4j, Reuters reported that some of the world’s largest technology companies, including Cisco Systems, IBM, VMware and Splunk, are still struggling to make their products safe from the vulnerability.
+
+Thousands of other programs use the free logger, and those responsible for them must prepare and distribute their own patches to prevent takeovers. 
+
+That includes other free software, which is maintained by volunteers, as well as programs from companies big and small.
+
+CSA said it is monitoring the situation closely.
