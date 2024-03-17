@@ -20,7 +20,7 @@ This GitHub repository contains 2 information retrieval systems developed in Pyt
      - "Omicron"
      - "VTL"
      - "Property"
-     - You can use and and not as connectives to make logical connections between different controlled vocabulary words.
+    - You can use and and not as connectives to make logical connections between different controlled vocabulary words.
      - "Covid-19 and Property"
      - "Covid-19 and VTL"
      - "Covid-19 and Omicron"
