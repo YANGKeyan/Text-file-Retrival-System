@@ -7,7 +7,6 @@ thesaurusDict = {
     "vtl": ["vtl", "vaccinate", "travel"]
 }
 
-# 搜索包含指定控制词汇的文档
 def search_documents(keywords):
     results = []
     all_files = os.listdir('preprocessed')
